@@ -7,7 +7,7 @@ I am a student dedicated to the field of cybersecurity, with sufficient skills i
 
 ## Objective
 
-My goal in the field of cybersecurity is to contribute to the goal of preventing asset losses caused by social engineering through the utilization of SIEM and automation tools.
+I’ve always been fascinated by how people interact with computers and how attackers exploit those interactions. My mission in cybersecurity is to help protect those individuals and organizations from social engineering threats by leveraging SIEM and automation tools to detect attacks early, respond quickly, and reduce their real-world impact.
 
 
 <!--
