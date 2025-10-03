@@ -9,6 +9,13 @@ I am a student dedicated to the field of cybersecurity, with sufficient skills i
 
 I’ve always been fascinated by how people interact with computers and how attackers exploit those interactions. My mission in cybersecurity is to help protect those individuals and organizations from social engineering threats by leveraging SIEM and automation tools to detect attacks early, respond quickly, and reduce their real-world impact.
 
+## Projects
+
+- Attack/Defend Lab
+
+## Skills
+
+## Tools
 
 <!--
 **jonasssam/jonasssam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
